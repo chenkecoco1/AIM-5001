@@ -9,7 +9,7 @@
 {
     "title": "Lichens of North America",
     "ISBN-13": "9780300082494",
-    "author": [{"author 1":"Irwin M. Brodo"},{"author 2":"Sylvia Duran Sharnoff"},{"author 3":"Stephen Sharnoff"}],
+    "author": {"author 1":"Irwin M. Brodo","author 2":"Sylvia Duran Sharnoff","author 3":"Stephen Sharnoff"},
     "pubisher":"Yale University Press",
     "publish date": "09/10/2001"
 
@@ -17,7 +17,7 @@
 { 
     "title": "Field Guide to the Lichens of Great Smoky Mountains National Park",
     "ISBN-13": "9781621905141",
-    "author": [{"author 1": "Erin Tripp"},{"author 2":"James Lendemer"}],
+    "author": {"author 1": "Erin Tripp","author 2":"James Lendemer"},
     "pubisher":"University of Tennessee Press",
     "publish date":"04/29/2020"
 }
