@@ -1,7 +1,7 @@
 [{
     "title": "Lichen Biology",
     "ISBN-13": "9780521692168",
-    "author": "Thomas H. Nash III",
+    "author": {"name":"Thomas H. Nash III"},
     "publisher": "Cambridge University Press",
     "publish date": "06/24/2008"
 
@@ -9,7 +9,7 @@
 {
     "title": "Lichens of North America",
     "ISBN-13": "9780300082494",
-    "author": ["Irwin M. Brodo", "Sylvia Duran Sharnoff", "Stephen Sharnoff"],
+    "author": {"name":"Irwin M. Brodo", "name":"Sylvia Duran Sharnoff", "name"："Stephen Sharnoff"},
     "publisher":"Yale University Press",
     "publish date": "09/10/2001"
 
@@ -17,7 +17,7 @@
 { 
     "title": "Field Guide to the Lichens of Great Smoky Mountains National Park",
     "ISBN-13": "9781621905141",
-    "author": ["Erin Tripp", "James Lendemer"],
+    "author": {"name":"Erin Tripp", "name":"James Lendemer"},
     "publisher":"University of Tennessee Press",
     "publish date":"04/29/2020"
 }]
